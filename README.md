@@ -15,6 +15,7 @@ Aşağıdaki yazılımların kaynak kodu kapalı tutuluyor. Kullanmak ya da iş 
 | **SETIS** | Sınav Elektronik Tespit ve İzleme Sistemi: sınav süreçlerinin elektronik olarak izlenmesi ve raporlanması | Python |
 | **İzTespit** | Cihaz teknik inceleme ve raporlama sistemi | Python |
 | **Waveology** | Tek tuşla müzik yapımı: beat, kayıt, temizlik, akort, mix ve master adımlarını tek akışta toplayan ses işleme aracı | Python |
+| **Asgardia Yönetim** | Site yönetim sistemi: gelir ve gider takibi | JavaScript |
 | **cagatayhanturkseven.com** | Kişisel internet sitesi ve web uygulaması | TypeScript |
 
 ## Çalışma alanları
